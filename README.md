@@ -1,2 +1,1 @@
-# Resume
-个人简历
+![](res/resume.png)
